@@ -5,6 +5,7 @@ class LetsYouInScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    var name = 'hello';
     return Scaffold(
       backgroundColor: Colors.white,
       body: SafeArea(
